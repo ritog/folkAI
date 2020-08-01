@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+    <title>Folk.AI- Classify India's Folk Dances</title>
+    <h1>Upload new File</h1>
+    <form action="/" method="POST" enctype=multipart/form-data>
+        <input type="file" name="image">
+        <br>
+        <input type="submit" value="Predict" >
+        <br>
+        <h3>Prediction: {{ prediction }}</h3>
+        <h3>Prediction: {{ output }}</h3>
+    </form>
+</html>
