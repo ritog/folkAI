@@ -2,4 +2,4 @@ gunicorn
 flask
 fastai==1.0.61
 https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
-fastai==1.0.61
+torchvision==0.2.2
