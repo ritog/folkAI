@@ -1,4 +1,4 @@
-# folkAI
+# Folk.AI
 
 ## Web App for Classifying Between Chhau and Kathakali- Two Folk Dance Forms of India Using Artificial Intelligence
 
@@ -10,12 +10,12 @@ very colorful and exotic costiumes for the dances.
 ![chhau-dance][3]
 *Chhau Dance*- Photo from [Wikimedia Commons][4]
 
-![kathakali-dance][4]
-*Kathakali Dance*- Photo from [Wikimedia Commons][5]
+![kathakali-dance][5]
+*Kathakali Dance*- Photo from [Wikimedia Commons][6]
 
 ### How to Use This App
 
-Go to [folk-ai.herokuapp.com][6] to use this web app.
+Go to [folk-ai.herokuapp.com][7] to use this web app.
 Upload an image of either Kathakali or Chhau dance, and this web app will
 predict the dance form using Artificial Intelligence.
 
@@ -35,5 +35,6 @@ See `requirements.txt` file.
 [2]: https://en.wikipedia.org/wiki/Kathakali
 [3]: https://upload.wikimedia.org/wikipedia/commons/d/d5/Chhau_dance.jpg
 [4]: https://en.wikipedia.org/wiki/Chhau_dance#/media/File:Chhau_dance.jpg
-[5]: https://en.wikipedia.org/wiki/File:Kathakali_DSC_0109_1.jpg
-[6]: https://folk-ai.herokuapp.com
+[5]: https://en.wikipedia.org/wiki/Kathakali#/media/File:Kadhakali_at_Kerala_state_school_kalothsavam_2019_3.jpg
+[6]: https://upload.wikimedia.org/wikipedia/commons/1/1c/Kadhakali_at_Kerala_state_school_kalothsavam_2019_3.jpg
+[7]: https://folk-ai.herokuapp.com
