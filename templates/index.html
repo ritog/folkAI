@@ -1,14 +1,17 @@
 <!doctype html>
 <html>
     <title>Folk.AI- Classify India's Folk Dances</title>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
     <style>
-    body,h1,h2 {font-family: sans-serif; color:white;}
+    body,h2 {font-family: sans-serif; color:white;}
+    h1 {font-family: 'Alfa Slab One'; color:white;}
     body, html {height: 100%}
     h3 {text-align: center; color: burlywood;}
     form {color:white; align-items: center;}
+    div {background-color: gray; border-radius: 10px; color: black; border: 2px solid black;}
     </style>
     <h1>
-    Folk.AI
+    folk.ai
     </h1>
     <h2>Classify Between Chhau and Kathakali, Two Classical Dance Forms of India Using Artificial Intelligence</h2>
     <h3>
@@ -23,5 +26,19 @@
             <input type="submit" value="Predict" >
             <br>
         </form>
+        <br>
+        <br>
+        <div>
+            How this works:<br>
+            Just upload an image of Chhau or Kathakali dance using the "Browse..."
+            button and click on "Predict" to get prediction of the dance form.
+            <br><br>
+            This web app depends on a batch-learning model leveraging Convolutional
+            Neural Network and transfer learning. The model is trained Using
+            PyTorch and fastai v1 libraries. This is an Open Source project.
+            Visit <a href="https://github.com/ghosh-r/folkAI">GitHub Repository</a>
+            for code.
+        </div>
+        <p>Copyright- Ritobrata Ghosh 2020</p>
     </body>
 </html>
