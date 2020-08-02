@@ -35,6 +35,6 @@ See `requirements.txt` file.
 [2]: https://en.wikipedia.org/wiki/Kathakali
 [3]: https://upload.wikimedia.org/wikipedia/commons/d/d5/Chhau_dance.jpg
 [4]: https://en.wikipedia.org/wiki/Chhau_dance#/media/File:Chhau_dance.jpg
-[5]: https://en.wikipedia.org/wiki/Kathakali#/media/File:Kadhakali_at_Kerala_state_school_kalothsavam_2019_3.jpg
-[6]: https://upload.wikimedia.org/wikipedia/commons/1/1c/Kadhakali_at_Kerala_state_school_kalothsavam_2019_3.jpg
+[5]: https://upload.wikimedia.org/wikipedia/commons/1/1c/Kadhakali_at_Kerala_state_school_kalothsavam_2019_3.jpg
+[6]: https://en.wikipedia.org/wiki/Kathakali#/media/File:Kadhakali_at_Kerala_state_school_kalothsavam_2019_3.jpg
 [7]: https://folk-ai.herokuapp.com
