@@ -29,7 +29,8 @@ This project levarages transfer learning.
 
 ### Requirements
 
-See `requirements.txt` file.
+This project uses older versions of PyTorch, torchvision and fastai library.
+See `requirements.txt` file more details.
 
 [1]: https://en.wikipedia.org/wiki/Chhau_dance
 [2]: https://en.wikipedia.org/wiki/Kathakali
