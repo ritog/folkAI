@@ -14,7 +14,7 @@ model = load_learner(path, 'model/export.pkl')
 
 app = Flask(__name__)
 
-upload_folder = "/home/ritobrata/ML/mini-projects/ifd-athakur/static"
+upload_folder = "/home/ritobrata/ML/mini-projects/folkAI/static"
 
 @app.route("/", methods=["GET", "POST"])
 
