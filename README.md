@@ -2,6 +2,8 @@
 
 ## Web App for Classifying Between Chhau and Kathakali- Two Folk Dance Forms of India Using Artificial Intelligence
 
+\[**NOTE**: After Heroku's pricing changes, this app is no longer hosted. \]
+
 ## About
 
 [Chhau][1] and [Kathakali][2] are two folk dance forms of India. They use
